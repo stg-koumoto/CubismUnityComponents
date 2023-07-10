@@ -25,7 +25,7 @@ namespace Live2D.Cubism.Rendering.Masking
         /// <summary>
         /// <see cref="MaskTexture"/> backing field.
         /// </summary>
-        [SerializeField, HideInInspector]
+//      [SerializeField, HideInInspector]
         private CubismMaskTexture _maskTexture;
 
         /// <summary>
