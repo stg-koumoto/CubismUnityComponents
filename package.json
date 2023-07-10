@@ -1,0 +1,12 @@
+{
+    "name": "com.live2d.CubismUnityComponents",
+    "displayName": "CubismUnityComponents",
+    "author": { "name": "Live2D", "url": "https://live2d.com" },
+    "version": "4.7.0",
+    "unity": "2018.4",
+    "description": "Open Cubism Components for Unity.",
+    "keywords": [],
+    "license": "Live2D Open Software License, Live2D Proprietary Software License, Free Material License",
+    "category": "Live2D",
+    "dependencies": {}
+}
